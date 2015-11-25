@@ -1,0 +1,1 @@
+	var projetJEEModule	 = angular.module('projetJJE',[]);
